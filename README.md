@@ -27,3 +27,4 @@ By clicking the install button, the web application can be downloaded and instal
 Even in offline mode, the page loads smoothly due to pre-caching of static assets during initial loading, including subsequent pages and static assets.
 
 # Author-Credits
+https://github.com/Fderosier/Text-editor.git
